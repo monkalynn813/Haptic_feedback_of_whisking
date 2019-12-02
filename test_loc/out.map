@@ -3,121 +3,121 @@ Archive member included because of file (symbol)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a(floatunsisf.o)
                               test_loc.o (__floatunsisf)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
-                              /tmp/ccCLZi3Q.o (_bootstrap_exception_handler)
+                              /tmp/ccnsL0Jw.o (_bootstrap_exception_handler)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
-                              /tmp/ccCLZi3Q.o (_on_reset)
+                              /tmp/ccnsL0Jw.o (_on_reset)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
-                              /tmp/ccCLZi3Q.o (_on_bootstrap)
+                              /tmp/ccnsL0Jw.o (_on_bootstrap)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-nmi-handler.o)
-                              /tmp/ccCLZi3Q.o (_nmi_handler)
+                              /tmp/ccnsL0Jw.o (_nmi_handler)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(pic32_data_init.o)
-                              /tmp/ccCLZi3Q.o (__pic32_data_init)
+                              /tmp/ccnsL0Jw.o (__pic32_data_init)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o)
-                              /tmp/ccCLZi3Q.o (_general_exception_context)
+                              /tmp/ccnsL0Jw.o (_general_exception_context)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector0.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_0)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_0)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector1.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_1)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_1)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector2.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_2)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_2)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector3.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_3)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_3)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector4.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_4)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_4)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector5.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_5)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_5)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector6.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_6)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_6)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector7.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_7)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_7)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector8.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_8)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_8)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector9.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_9)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_9)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector10.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_10)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_10)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector11.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_11)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_11)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector12.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_12)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_12)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector13.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_13)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_13)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector14.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_14)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_14)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector15.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_15)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_15)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector16.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_16)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_16)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector17.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_17)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_17)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector18.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_18)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_18)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector19.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_19)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_19)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector20.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_20)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_20)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector21.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_21)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_21)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector22.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_22)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_22)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector23.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_23)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_23)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector24.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_24)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_24)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector25.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_25)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_25)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector26.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_26)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_26)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector27.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_27)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_27)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector28.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_28)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_28)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector29.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_29)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_29)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector30.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_30)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_30)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector31.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_31)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_31)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector32.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_32)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_32)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector33.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_33)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_33)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector34.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_34)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_34)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector35.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_35)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_35)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector36.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_36)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_36)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector37.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_37)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_37)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector38.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_38)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_38)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector39.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_39)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_39)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector40.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_40)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_40)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector41.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_41)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_41)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector42.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_42)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_42)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector43.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_43)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_43)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector44.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_44)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_44)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector45.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_45)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_45)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector46.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_46)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_46)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector47.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_47)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_47)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector48.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_48)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_48)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector49.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_49)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_49)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector50.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_50)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_50)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(vector51.o)
-                              /tmp/ccjjAFEC.o (__vector_dispatch_51)
+                              /tmp/ccAnRAFI.o (__vector_dispatch_51)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(default-general-exception-handler.o)
                               /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(general-exception.o) (_general_exception_handler)
 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
@@ -525,10 +525,10 @@ Discarded input sections
  .reginfo       0x00000000       0x18 test_loc.o
  .reginfo       0x00000000       0x18 NU32.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/processor.o
- .reginfo       0x00000000       0x18 /tmp/ccCLZi3Q.o
- .reginfo       0x00000000       0x18 /tmp/cckdwEIe.o
- .reginfo       0x00000000       0x18 /tmp/ccjjAFEC.o
- .discard       0x00000000       0xd0 /tmp/ccjjAFEC.o
+ .reginfo       0x00000000       0x18 /tmp/ccnsL0Jw.o
+ .reginfo       0x00000000       0x18 /tmp/cc1l3MyC.o
+ .reginfo       0x00000000       0x18 /tmp/ccAnRAFI.o
+ .discard       0x00000000       0xd0 /tmp/ccAnRAFI.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/default_isr_vectors.o
  .discard       0x00000000       0xd0 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/default_isr_vectors.o
  .reginfo       0x00000000       0x18 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
@@ -725,16 +725,16 @@ LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../p
 
 .reset          0xbd001970      0x1a8
  *(.reset)
- .reset         0xbd001970        0x8 /tmp/ccCLZi3Q.o
+ .reset         0xbd001970        0x8 /tmp/ccnsL0Jw.o
                 0xbd001970                _reset
  *(.reset.startup)
  .reset.startup
-                0xbd001978      0x1a0 /tmp/ccCLZi3Q.o
+                0xbd001978      0x1a0 /tmp/ccnsL0Jw.o
                 0xbd001978                _startup
 
 .bev_excpt      0xbd001cf0       0x10
  *(.bev_handler)
- .bev_handler   0xbd001cf0       0x10 /tmp/ccCLZi3Q.o
+ .bev_handler   0xbd001cf0       0x10 /tmp/ccnsL0Jw.o
 
 .dbg_excpt      0xbd001df0        0x0
                 0xbd001df0                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -744,7 +744,7 @@ LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../p
 
 .app_excpt      0x9d000180       0x10
  *(.gen_handler)
- .gen_handler   0x9d000180       0x10 /tmp/ccCLZi3Q.o
+ .gen_handler   0x9d000180       0x10 /tmp/ccnsL0Jw.o
 
 .vector_0       0x9d000200        0x8
  *(.vector_0)
@@ -1699,9 +1699,9 @@ LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../p
                 0x00000360       0x10 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(xc32_uart.o)
  .gnu.attributes
                 0x00000370       0x10 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/libpic32.a(_mon_putc.o)
-LOAD /tmp/ccCLZi3Q.o
-LOAD /tmp/cckdwEIe.o
-LOAD /tmp/ccjjAFEC.o
+LOAD /tmp/ccnsL0Jw.o
+LOAD /tmp/cc1l3MyC.o
+LOAD /tmp/ccAnRAFI.o
 LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/default_isr_vectors.o
 LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/pic32_software_reset.o
 LOAD /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/libgcc.a
@@ -2739,22 +2739,22 @@ LOAD data_init
  .data          0x00000000        0x0 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/default_isr_vectors.o
 
 .bss%z310       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/ccjjAFEC.o
+ .bss           0x00000000        0x0 /tmp/ccAnRAFI.o
 
 .data%z311      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/ccjjAFEC.o
+ .data          0x00000000        0x0 /tmp/ccAnRAFI.o
 
 .bss%z312       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/cckdwEIe.o
+ .bss           0x00000000        0x0 /tmp/cc1l3MyC.o
 
 .data%z313      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/cckdwEIe.o
+ .data          0x00000000        0x0 /tmp/cc1l3MyC.o
 
 .bss%z314       0x00000000        0x0
- .bss           0x00000000        0x0 /tmp/ccCLZi3Q.o
+ .bss           0x00000000        0x0 /tmp/ccnsL0Jw.o
 
 .data%z315      0x00000000        0x0
- .data          0x00000000        0x0 /tmp/ccCLZi3Q.o
+ .data          0x00000000        0x0 /tmp/ccnsL0Jw.o
 
 .bss%z316       0x00000000        0x0
  .bss           0x00000000        0x0 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/processor.o
@@ -3181,7 +3181,7 @@ LOAD data_init
 .text.main_entry
                 0x9d00c0f8       0x54
  .text.main_entry
-                0x9d00c0f8       0x54 /tmp/ccCLZi3Q.o
+                0x9d00c0f8       0x54 /tmp/ccnsL0Jw.o
                 0x9d00c12c                __crt0_exit
 
 .text.sbrk      0x9d00c14c       0x50
@@ -3955,13 +3955,13 @@ LOAD data_init
  .text          0x00000000        0x0 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/default_isr_vectors.o
 
 .text%z450      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/ccjjAFEC.o
+ .text          0x00000000        0x0 /tmp/ccAnRAFI.o
 
 .text%z451      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/cckdwEIe.o
+ .text          0x00000000        0x0 /tmp/cc1l3MyC.o
 
 .text%z452      0x00000000        0x0
- .text          0x00000000        0x0 /tmp/ccCLZi3Q.o
+ .text          0x00000000        0x0 /tmp/ccnsL0Jw.o
 
 .text%z453      0x00000000        0x0
  .text          0x00000000        0x0 /opt/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX795F512H/processor.o
