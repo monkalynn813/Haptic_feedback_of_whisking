@@ -1,17 +1,12 @@
-
-
 #include <SPI.h>
 #include <WiFi101.h>
 #include <ArduinoJson.h>
 #include "projection.h"
 
-char ssid[] = "feater_test";        // your network SSID (name)
+char ssid[] = "feather_test";        // your network SSID (name)
 char pass[] = "123456";
 int status = WL_IDLE_STATUS;
 WiFiServer server(80);
-
-
-
 
 void setup() {
   // put your setup code here, to run once:
@@ -44,7 +39,7 @@ void setup() {
   while (true);
   }
 
-  delay(1000);
+  delay(3000);
   
   // start the web server on port 80
   server.begin();
@@ -55,27 +50,33 @@ void setup() {
 void loop() {
   StaticJsonDocument<100> doc;
   // put your main code here, to run repeatedly:
+
   if (status != WiFi.status()) {
     // it has changed update the variable
-    status = WiFi.status();
-
-    if (status == WL_AP_CONNECTED) {
-      byte remoteMac[6];
-
-      // a device has connected to the AP
-      Serial.print("Device connected to AP, MAC address: ");
-      WiFi.APClientMacAddress(remoteMac);
-      printMacAddress(remoteMac);
-    } else {
-      // a device has disconnected from the AP, and we are back in listening mode
-      Serial.println("Device disconnected from AP");
-    }
-  }
+    status = WiFi.status();}
+    
+//    if (status == WL_AP_CONNECTED) {
+//      Serial.println(status);
+////      byte remoteMac[6];
+////
+////      // a device has connected to the AP
+////      Serial.print("Device connected to AP, MAC address: ");
+////      WiFi.APClientMacAddress(remoteMac);
+////      printMacAddress(remoteMac);
+//    } else {
+//      // a device has disconnected from the AP, and we are back in listening mode
+//      Serial.println("Device disconnected from AP");
+//    }
+  
 
    WiFiClient client = server.available();
+
+//   Serial.println(client);
+
+   
    while (client) {                             // if you get a client,
-    
-//    Serial.println("new client");           // print a message out the serial port
+    Serial.println(client);
+    Serial.println("new client");           // print a message out the serial port
     String bufferd = "";                // make a String to hold incoming data from the client
     int flag=0;
     while (client.connected()) {            // loop while the client's connected
@@ -111,7 +112,7 @@ void loop() {
       JsonVariant x_=array[0], y_=array[1];
       float x=x_.as<float>(), y=y_.as<float>();
       set_vibration(x,y);
-      
+      break;
   }
 }
 
