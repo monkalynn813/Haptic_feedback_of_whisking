@@ -1,2 +1,2 @@
-#define SECRET_SSID "jlrlinuxmachine"
-#define SECRET_PASS "Fantuan0630"
+#define SECRET_SSID " username  "
+#define SECRET_PASS " password  "
